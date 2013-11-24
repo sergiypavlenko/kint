@@ -10,7 +10,9 @@ Read more - https://github.com/raveren/kint/
 
 Add to file application/bundles.php:
 
+```php
 'kint' => array('auto' => true)
+```
 
 ## Usage
 
