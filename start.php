@@ -3,4 +3,4 @@
 /**
  * Connecting the Kint.
  */
-require Bundle::path('kint') . 'kint/Kint.class.php';
+require Bundle::path('kint') . 'kint' . DS . 'Kint.class' . EXT;
